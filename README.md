@@ -25,4 +25,5 @@ Evaluate the impact of design changes on user behaviour (for Both A and B) using
 ![WhatsApp Image 2025-05-28 at 20 54 53_ba625e5e](https://github.com/user-attachments/assets/129250ec-aeb7-41ec-bb04-ad8a8e4603d7)
 
 ##RESULT
+
 Thus, the given experiment was completed successfully.
